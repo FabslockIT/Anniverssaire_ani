@@ -67,7 +67,7 @@ svg.intro.go .text-stroke:nth-child(6) {
     stroke-dashoffset: 0;
   }
 }
-.reload {
+.Recharger {
   position: absolute;
   bottom: 15px;
   right: 15px;
@@ -84,15 +84,15 @@ svg.intro.go .text-stroke:nth-child(6) {
   box-shadow: 0 6px 7px #350e4c;
   transition: all 0.1s cubic-bezier(0.67, 0.13, 0.1, 0.81);
 }
-.reload:hover {
+.Recharger:hover {
   box-shadow: 0 4px 4px #350e4c;
   transform: translateY(1px);
 }
-.reload:active {
+.Recharger:active {
   box-shadow: 0 1px 2px #244B94;
   transform: translateY(2px);
 }
-.reload svg {
+.Recharger svg {
   vertical-align: middle;
   position: relative;
   top: -2px;
